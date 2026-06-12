@@ -4,4 +4,4 @@ https://www.google.co.uk/maps/dir/52.0235979,-2.9225998/The+Temple+Bar+Inn,+Ewya
 
 
 
-![image](files:images/001.png)
+![image](files:./images/001.png)
