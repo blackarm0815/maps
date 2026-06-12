@@ -1,6 +1,9 @@
 <a href="https://www.google.com/maps/place/52.02359674335219,-2.9225999633666513">The Croft, Vowchurch</a>
 <br/>
 <br/>
+<a href="https://www.google.com/maps/place/51.97127560486754,-2.898456129605755">Abbeydore</a>
+<br/>
+<br/>
 <a href="https://www.google.com/maps/place/51.952885490871736,-2.8927219978420577">Temple Bar Inn, Ewyas Harold</a>
 <br/>
 <br/>
