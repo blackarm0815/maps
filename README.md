@@ -40,3 +40,8 @@
 <a href="https://www.google.co.uk/maps/dir/Hopes+of+Longtown,+The+Farmers+Barn,+Longtown,+Hereford+HR2+0LT/Black+Hill+Car+Park,+Upper+House+Farm,+Hereford+HR2+0PL/@51.9705038,-3.0414307,13.09z/data=!3m1!5s0x4871d2f017faf02f:0xbae08ac76d8833d2!4m14!4m13!1m5!1m1!1s0x4871d2f017c95e6f:0x83314aad318673aa!2m2!1d-2.980918!2d51.9514078!1m5!1m1!1s0x48702cae27885385:0xa9e2d6b32728ee2c!2m2!1d-3.0376668!2d51.9895378!3e0?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank">Hopes of Longtown to Black Hill Car Park</a>
 
 ![alt text](images/004.png "Title")
+
+
+
+<a href="https://www.google.com/maps/dir/The+Croft,+Vowchurch,+Hereford+HR2+0QE/51.9915163,-2.8976101/51.9847398,-2.9088865/51.9709204,-2.8979272/51.97134,-2.9189074/51.9665549,-2.9305727/51.953373,-2.9808917/51.9514287,-2.9813247/Black+Hill+Car+Park,+Upper+House+Farm,+Hereford+HR2+0PL/The+Crown+Inn,+Longtown,+Hereford+HR2+0LT/@51.9731508,-2.9661793,12.53z/data=!4m32!4m31!1m5!1m1!1s0x487032f4135efc13:0x2c6c08c853b2a281!2m2!1d-2.9222223!2d52.0234517!1m0!1m0!1m0!1m0!1m0!1m5!3m4!1m2!1d-2.9811151!2d51.952738!3s0x4871d2efe01cf377:0x557e87172722ba28!1m0!1m5!1m1!1s0x48702cae27885385:0xa9e2d6b32728ee2c!2m2!1d-3.0376668!2d51.9895378!1m5!1m1!1s0x4871d2930b44f0ef:0x89060c51674e3ec5!2m2!1d-2.9817439!2d51.9507238!3e0?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank">all</a>
+
