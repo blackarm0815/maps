@@ -4,6 +4,9 @@
 <a href="https://www.google.com/maps/place/51.952885490871736,-2.8927219978420577">Temple Bar Inn, Ewyas Harold</a>
 <br/>
 <br/>
+<a href="https://www.google.com/maps/place/51.96714263708999,-2.929945715706093">Dulas brook</a>
+<br/>
+<br/>
 <a href="https://www.google.com/maps/place/51.95139692058045,-2.981333981922839">Hopes of Longtown</a>
 <br/>
 <br/>
