@@ -1,7 +1,7 @@
-<a href="https://www.google.com/maps/place/52.02359674335219,-2.9225999633666513">0 - the gateway, vowchurch</a>
+<a href="https://www.google.com/maps/place/52.02359674335219,-2.9225999633666513">0 - the red cow</a>
 <br/>
 <br/>
-<a href="https://www.google.com/maps/place/51.96714263708999,-2.929945715706093">1 - the ford, dulas brook</a>
+<a href="https://www.google.com/maps/place/51.96714263708999,-2.929945715706093">1 - the ford at dulas<\a>
 <br/>
 <br/>
 <a href="https://www.google.com/maps/place/51.95139692058045,-2.981333981922839">2 - hopes of longtown</a>
